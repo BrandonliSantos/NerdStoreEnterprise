@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yhR4idq2sIy454AEMxvQAKRrYfbmpDZqcLoqRmPbtdY=",
+  "Source": "NSE.Pedidos.API",
+  "BasePath": "_content/NSE.Pedidos.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

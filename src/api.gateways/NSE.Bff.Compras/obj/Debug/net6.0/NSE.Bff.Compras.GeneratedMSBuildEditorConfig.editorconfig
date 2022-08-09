@@ -1,0 +1,17 @@
+is_global = true
+build_property.RefitInternalNamespace = NSE.Bff.Compras
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NSE.Bff.Compras
+build_property.RootNamespace = NSE.Bff.Compras
+build_property.ProjectDir = C:\Users\leobr\OneDrive\Área de Trabalho\Projeto\NerdStoreEnterprise\src\api.gateways\NSE.Bff.Compras\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\leobr\OneDrive\Área de Trabalho\Projeto\NerdStoreEnterprise\src\api.gateways\NSE.Bff.Compras
+build_property._RazorSourceGeneratorDebug = 

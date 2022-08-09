@@ -1,0 +1,15 @@
+C:\Users\leobr\OneDrive\Área de Trabalho\Projeto\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\obj\Debug\net6.0\NSE.Pedidos.Domain.csproj.AssemblyReference.cache
+C:\Users\leobr\OneDrive\Área de Trabalho\Projeto\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\obj\Debug\net6.0\NSE.Pedidos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leobr\OneDrive\Área de Trabalho\Projeto\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\obj\Debug\net6.0\NSE.Pedidos.Domain.AssemblyInfoInputs.cache
+C:\Users\leobr\OneDrive\Área de Trabalho\Projeto\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\obj\Debug\net6.0\NSE.Pedidos.Domain.AssemblyInfo.cs
+C:\Users\leobr\OneDrive\Área de Trabalho\Projeto\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\obj\Debug\net6.0\NSE.Pedidos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leobr\OneDrive\Área de Trabalho\Projeto\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\bin\Debug\net6.0\NSE.Pedidos.Domain.deps.json
+C:\Users\leobr\OneDrive\Área de Trabalho\Projeto\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\bin\Debug\net6.0\NSE.Pedidos.Domain.dll
+C:\Users\leobr\OneDrive\Área de Trabalho\Projeto\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\bin\Debug\net6.0\NSE.Pedidos.Domain.pdb
+C:\Users\leobr\OneDrive\Área de Trabalho\Projeto\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\bin\Debug\net6.0\NSE.Core.dll
+C:\Users\leobr\OneDrive\Área de Trabalho\Projeto\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\bin\Debug\net6.0\NSE.Core.pdb
+C:\Users\leobr\OneDrive\Área de Trabalho\Projeto\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\obj\Debug\net6.0\NSE.Pedidos.Domain.csproj.CopyComplete
+C:\Users\leobr\OneDrive\Área de Trabalho\Projeto\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\obj\Debug\net6.0\NSE.Pedidos.Domain.dll
+C:\Users\leobr\OneDrive\Área de Trabalho\Projeto\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\obj\Debug\net6.0\refint\NSE.Pedidos.Domain.dll
+C:\Users\leobr\OneDrive\Área de Trabalho\Projeto\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\obj\Debug\net6.0\NSE.Pedidos.Domain.pdb
+C:\Users\leobr\OneDrive\Área de Trabalho\Projeto\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\obj\Debug\net6.0\ref\NSE.Pedidos.Domain.dll
